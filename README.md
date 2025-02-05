@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Andrei 👋
 
-<!--
-**aladmit/aladmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I consult on engineering practices at [enabling.team](https://enabling.team).
 
-Here are some ideas to get you started:
+### 🌱 Topics I can help with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Trunk-Based Development 
+- Team Topologies
+- Platform Engineering
+- Site Reliability Engineering
+
+### 💬 Talks
+
+You can find all my public talks with videos and presentations in
+[public](https://github.com/aladmit/public) repo.
+
+All articles published on my personal website.
+[Russian(original)](https://aaleksandrov.me/) | 
+[English(mostly autotranslated)](https://aaleksandrov.me/en/) 
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/aladmit/)
+- [Telegram](https://t.me/aladmit)
+- [Telegram channel(ru)](https://t.me/aladmit_world)
+- Email: aleksandrov@hey.com
+
